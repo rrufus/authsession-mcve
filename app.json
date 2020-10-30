@@ -1,0 +1,14 @@
+{
+  "name": "authsession",
+  "displayName": "authsession",
+  "expo": {
+    "scheme": "authsession",
+    "name": "authsession",
+    "slug": "authsession",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.authsession"
+    }
+  }
+}
